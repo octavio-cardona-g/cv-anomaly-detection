@@ -1,0 +1,14 @@
+{
+  "mean_score_auroc": {
+    "combined": 0.8301587301587301,
+    "contamination": 0.7190476190476189,
+    "broken_large": 0.9225,
+    "broken_small": 0.8522727272727273
+  },
+  "topk_score_auroc": {
+    "combined": 0.8206349206349206,
+    "contamination": 0.6452380952380952,
+    "broken_large": 0.9299999999999999,
+    "broken_small": 0.8886363636363637
+  }
+}
