@@ -18,13 +18,13 @@ Two classification methods, described in the "Approach" section, were used to id
 
 **Error heatmaps for autoencoder model:**
 
-![Good bottles](.\results\autoencoder_error_heatmap_good.png "Autoencoder heatmap for good bottles")
+![Good bottles](./results/autoencoder_error_heatmap_good.png "Autoencoder heatmap for good bottles")
 
-![Contaminated bottles](.\results\autoencoder_error_heatmap_contamination.png "Autoencoder heatmap for contaminated bottles")
+![Contaminated bottles](./results/autoencoder_error_heatmap_contamination.png "Autoencoder heatmap for contaminated bottles")
 
 **Error heatmaps for PatchCore model:**
 
-![Good vs contaminated bottle](.\results\patchcore_error_heatmap.png "PatchCore model heatmap")
+![Good vs contaminated bottle](./results/patchcore_error_heatmap.png "PatchCore model heatmap")
 
 # Approach
 
